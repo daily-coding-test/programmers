@@ -8,5 +8,6 @@
 
 목표는 하루 30분 한문제를 시도해보는것이지 한 문제를 푸느라 오래걸려서 매일매일 연습을 못하게 되는것이 아니다.
 
+
 # Contribution
-`level/문제이름/language_본인이름.확장자` 의 형식으로 본인이 작성한 코드를 올릴 수 있다. 다른 사람들과 의견을 공유하고 싶은 사람들을 MR을 요청하면 된다.
+`weekN/dayN_문제_이름_본인이름.언어 확장자` 의 형식으로 본인이 작성한 코드를 올릴 수 있다. 예를들면 'week3/day15_order_string_hanwool.seok.js` 다른 사람들과 의견을 공유하고 싶은 사람들을 MR을 요청하면 된다. [예제 PR](https://github.com/daily-coding-test/programmers/pull/20)
